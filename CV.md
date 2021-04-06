@@ -8,9 +8,9 @@
 
 * Telefono: 351 2321121
 
-* Universidad: Universidad Blas Pascal
+* Universidad: UTN
 
-* Carrera: Ingenieria Informatica
+* Carrera: Ingenieria Mecanica
 
 * Especialidad: Machine Learning
 
