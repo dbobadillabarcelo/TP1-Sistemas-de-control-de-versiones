@@ -8,9 +8,9 @@
 
 * Telefono: 351 2321121
 
-* Universidad: Universidad Blas Pascal
+* Universidad: UNVM
 
-* Carrera: Ingenieria Informatica
+* Carrera: Ingenieria en Pesca
 
 * Especialidad: Machine Learning
 
